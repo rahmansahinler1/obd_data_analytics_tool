@@ -1,13 +1,15 @@
 # obd_data_analytics_tool
 Standalone data analytics tool which takes diagrashots (automotive data) and give detailed reports from that dataset. 
-Reports consist of conditional graphic generation as well as excel tables.
+Reports consist of advanced conditional graphics and excel tables.
 Tool has user-friendly developed GUI to interact.
 
 # Frameworks
 pandas, numpy, matplotlib, openpyxl, xlswriter, python-pptx, tkinter
 
-# Sample Output
+# User GUI
+![obd-tool-gui](https://github.com/rahmansahinler1/obd_data_analytics_tool/assets/102040290/7e0f5b58-8c76-4b9c-98e2-7b812a7f5e11)
 
+# Sample Output
 ![sample-1](https://github.com/rahmansahinler1/obd_data_analytics_tool/assets/102040290/6e632b21-8503-4bce-b6f7-c384b407ea66)
 
 ![sample2](https://github.com/rahmansahinler1/obd_data_analytics_tool/assets/102040290/f00ca82c-74ab-4813-8af0-2d6893bd8b96)
